@@ -1,6 +1,6 @@
 {
   "name": "@kalispera/stylelint-config-dnacss",
-  "version": "0.0.0-development",
+  "version": "0.1.0",
   "description": "help you to write a good dna",
   "main": "index.js",
   "dependencies": {
