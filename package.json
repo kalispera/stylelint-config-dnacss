@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-config-dnacss",
+  "version": "0.1.0",
+  "description": "help you to write a good dna",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassediercks/stylelint-config-dnacss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassediercks/stylelint-config-dnacss/issues"
+  },
+  "homepage": "https://github.com/lassediercks/stylelint-config-dnacss#readme"
+}

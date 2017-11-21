@@ -1,0 +1,18 @@
+.moo {
+  color: #efe;
+  color: green;
+  color: var(--copy-color);
+
+  height: 50px;
+  height: 305em;
+  height: 13%;
+  height: var(--size--M);
+
+  font-size: 16px;
+  font-size: 1pt;
+  font-size: 100%;
+  font-size: 3em;
+  font-size: var(--font-size);
+
+  font-family: sans-serif;
+}
