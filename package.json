@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-dnacss",
+  "name": "@kalispera/stylelint-config-dnacss",
   "version": "0.1.0",
   "description": "help you to write a good dna",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/lassediercks/stylelint-config-dnacss.git"
   },
-  "author": "",
+  "author": "lassediercks",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lassediercks/stylelint-config-dnacss/issues"
